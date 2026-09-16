@@ -292,8 +292,8 @@ button {
 }
 
 .hero-logo {
-    width: 78px;
-    height: 78px;
+    width: 88px;
+    height: 88px;
 
     margin: 0 auto 25px;
 }
@@ -1675,10 +1675,6 @@ body.dark .contact-detail p {
         display: flex;
     }
 
-    .hero {
-        padding-top: 150px;
-    }
-
     .hero h1 {
         letter-spacing: -3px;
     }
@@ -1793,11 +1789,11 @@ body.dark .contact-detail p {
         font-size: 13px;
     }
 
-    .hero {
+       .hero {
         min-height: 90vh;
 
         padding:
-            145px
+            105px
             20px
             80px;
     }
